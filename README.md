@@ -1,5 +1,4 @@
-# .github
-README
+# README
 
 Atenção a todos Los-Transantes
 
